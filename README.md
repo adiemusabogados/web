@@ -1,2 +1,2 @@
 # web
-(Adiemus Abogados)[http://adiemusabogados.es]
+http://adiemusabogados.es
